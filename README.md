@@ -1,6 +1,6 @@
 # 🏢 Sistem Manajemen Karyawan & Shift
 
-Aplikasi berbasis web untuk mengelola jadwal shift, pengajuan cuti, dan manajemen data karyawan secara efisien. Dibangun menggunakan **Laravel 11**, **Livewire**, dan **Tailwind CSS**.
+Aplikasi berbasis web untuk mengelola jadwal shift, pengajuan cuti, dan manajemen data karyawan secara efisien. Dibangun menggunakan **Laravel 12**, **Livewire**, dan **Tailwind CSS**.
 
 ---
 
